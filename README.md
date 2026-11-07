@@ -1,4 +1,4 @@
-# VR_XR_and_AR_Accesibility
+# VR_XR_and_AR_Accessibility
 
 Principles, approaches and methodologies for virtual, augmented and cross reality experiences.
 
