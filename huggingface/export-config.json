@@ -1,0 +1,17 @@
+{
+  "source_repository": "Double-FW/VR_XR_and_AR_Accessibility",
+  "destination_dataset": "GarethFW/VR_XR_and_AR_Accessibility",
+  "dataset_version": "1.0.0",
+  "files": [
+    "AGENTS.md",
+    "Inclusive_Design_Guidance_VR_XR_AR.md",
+    "README.md"
+  ],
+  "required_files": [
+    "AGENTS.md",
+    "Inclusive_Design_Guidance_VR_XR_AR.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "approved_license_sha256": "7ef02bc0b6ba376de57be5f27784eef23df6a74068a4a2a172f95ba2c605b7af"
+}
